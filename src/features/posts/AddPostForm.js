@@ -27,7 +27,7 @@ export const AddPostForm = () => {
 					onChange={onContentChanged}
 				/>
 				<button type='button'>Save The Post</button>
-				
+
 			</form>
 		</section>
 	);
